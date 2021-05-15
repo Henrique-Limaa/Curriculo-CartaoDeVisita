@@ -14,7 +14,7 @@
     <!--informaçoes pessoais-->
     <p3><strong>Email</strong>:<a href="mailto:henriquelima@gmail.com">henriquelima@gmail.com</a></p3>
     <!--informaçoes pessoais-->
-    <hr><br><br>
+    <hr><br>
     <h2>Objetivo</h2>
     <p1>Me Transformar em um desenvolvedor Web Full Stack</p1>
     <br><br>
