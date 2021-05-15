@@ -1,0 +1,25 @@
+.cartao{
+    background-image: url(./SEGURIDAD-E-HIGIENE-INDUSTRIAL-796x321.png);
+    width: 530px;
+    height: 220px;
+    background-size: cover;
+    background-repeat: round;
+    padding-left: 10px;}
+.borda{
+    border-width: 12px;
+    border-style: solid;
+    border-color: rgb(54, 21, 85);
+    border-radius: 2%;}
+.titulo{
+    color: white;
+font-family: sans-serif;}
+.atuação{color: white;
+    font-size: 20px;
+    font-family: Arial;}
+.contatos{color: aliceblue;}
+a{text-decoration: none;
+color:white;}
+  
+ 
+
+
